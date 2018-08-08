@@ -30,11 +30,14 @@ public class XmlToJson {
         JsonObject []lan=new JsonObject[3];
         for (int i=0;i<3;i++){
             lan[i]=new JsonObject();
+            lan[i].addProperty("id",ct[i].getId());
             lan[i].addProperty("name",ct[i].getName());
             lan[i].addProperty("email",ct[i].getEmail());
             lan[i].addProperty("qq",ct[i].getQq());
             lan[i].addProperty("wife",ct[i].getWife());
-            array.add(lan[i]);
+            JsonObject user=new JsonObject();
+            user.add("user",lan[i]);
+            array.add(user);
         }
 //        JsonObject lan1=new JsonObject();
 //        lan1.addProperty("name",ct.getName());

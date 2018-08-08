@@ -27,13 +27,7 @@ public class contest {
         this.wife = wife;
     }
 
-    /**
-     * @param id
-     * @param name
-     * @param email
-     * @param qq
-     * @param wife
-     */
+
     public contest() {
 
     }
