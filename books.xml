@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bookstore>
+  <book from="China">
+    <name>三国演义</name>
+    <price>￥89</price>
+    <when>2017版</when>
+  </book>
+  <book from="America">
+    <name>JavaScript高级程序设计</name>
+    <price>$18</price>
+    <when>2016</when>
+  </book>
+</bookstore>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<contestList>
+    <user id="001">
+        <name>王五</name>
+        <email>2222222</email>
+        <qq>4fenuang</qq>
+        <wife>6fenuang</wife>
+    </user>
+
+    <user id="002">
+        <name>李四</name>
+        <email>4444444</email>
+        <qq>4fenuang</qq>
+        <wife>6fenuang</wife>
+    </user>
+
+
+    <user id="003">
+        <name>张三</name>
+        <email>2fenuang</email>
+        <qq>333333</qq>
+        <wife>6fenuang</wife>
+    </user>
+
+
+
+</contestList>
