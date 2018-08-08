@@ -1,8 +1,8 @@
-# JsonXmlConvert\n
+# JsonXmlConvert
 
-java创建xml和json\n
+java创建xml和json
 
-java 读取xml和json\n
+java 读取xml和json
 
-java 将xml转换为json\n
+java 将xml转换为json
 
