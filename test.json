@@ -1,1 +1,1 @@
-{"contestList":[{"name":"王五","email":"2222222","qq":"4fenuang","wife":"6fenuang"},{"name":"李四","email":"4444444","qq":"4fenuang","wife":"6fenuang"},{"name":"张三","email":"2fenuang","qq":"333333","wife":"6fenuang"}]}
+{"contestList":[{"user":{"id":"001","name":"王五","email":"2222222","qq":"4fenuang","wife":"6fenuang"}},{"user":{"id":"002","name":"李四","email":"4444444","qq":"4fenuang","wife":"6fenuang"}},{"user":{"id":"003","name":"张三","email":"2fenuang","qq":"333333","wife":"6fenuang"}}]}
